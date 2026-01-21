@@ -1,0 +1,5 @@
+.loadenv
+streamlit
+pillow
+google.genai
+datetime
